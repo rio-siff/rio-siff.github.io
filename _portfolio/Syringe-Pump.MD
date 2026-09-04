@@ -4,6 +4,10 @@ excerpt: "Automated syringe pump that dispenses liquid at a set flow rate."
 header:
   image: /assets/img/Syringe_Pump_Portrait_Website.jpg
   teaser: /assets/img/Syringe_Pump_Portrait_Website.jpg
+toc: true
+toc_label: "Table of Contents"
+toc_sticky: true
+toc_icon: bars
 ---
 
 This automated syringe pump dispenses liquid at a custom flow rate (mL/min). This device ensures that fluids are delivered accurately at a steady rate. In a hospital setting, this can give healthcare workers peace of mind and save them time. The project utilizes 3D designed parts, electronics, and coding. The pump is driven by a stepper motor coupled to a lead screw. The screw turns at a set rate, pushing a carriage against the plunger to dispense liquid. This syringe pump features an LED light that turns green when running, yellow when paused, and red when out of liquid. It has a latching button to start and pause the motion of the pump. A switch is built in to stop the motion of the pump when the plunger has reached its limit. It is compatible with 10 mL and 20 mL syringes.
