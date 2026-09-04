@@ -4,21 +4,9 @@ excerpt: "This custom electric vehicle can reach speeds of up 30 MPH and has a r
 header:
   image: /assets/img/Syringe_Pump_Portrait_Website.jpg
   teaser: /assets/img/Syringe_Pump_Portrait_Website.jpg
-gallery:
-  - url: /assets/img/Cyber-Scooter-1.jpg
-    image_path: assets/img/Cyber-Scooter-1.jpg
-    alt: "placeholder image 1"
-  - url: /assets/img/Cyber-Scooter-2.jpg
-    image_path: assets/img/Cyber-Scooter-2.jpg
-    alt: "placeholder image 2"
-  - url: /assets/img/Cyber-Scooter-3.jpg
-    image_path: assets/img/Cyber-Scooter-3.jpg
-    alt: "placeholder image 3"
 ---
 
-Up until recently I rode a Gotrax E-Scooter to work every day. The scooter retailed for $300, but it quickly paid for itself after I was able to forgo gas and a parking spot at work. However, after about a year and a half of driving the scooter daily the battery started to lose charge quickly and there were a couple other mechanical issues that forced me to stop riding the scooter. Instead of purchasing a new scooter, I decided to go the DIY route to build a one-off scooter that fits my needs.
-
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+This automated syringe pump dispenses liquid at a custom flow rate (mL/min). This device ensures that fluids are delivered accurately at a steady rate. In a hospital setting, this can give healthcare workers peace of mind and save them time. The project utilizes 3D designed parts, electronics, and coding. The pump is driven by a stepper motor coupled to a lead screw. The screw turns at a set rate, pushing a carriage against the plunger to dispense liquid. This syringe pump features an LED light that turns green when running, yellow when paused, and red when out of liquid. It has a latching button to start and pause the motion of the pump. A switch is built in to stop the motion of the pump when the plunger has reached its limit. It is compatible with 10 mL and 20 mL syringes.
 
 ## Off-the-shelf Parts
 
@@ -47,9 +35,17 @@ electronics box | 1
 electronics box lid | 1
 motor mounting plate | 1
 lead screw support | 1
-plunger presser | 1
+carriage | 1
 back barrel stabilizer | 1
 front barrel stabilizer | 1
 
+## Arduino Code
+
+This [Arduino code] sets the flow rate of the syringe pump. Enter the desired flow rate and syringe pump diameter.
+
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b6028111d35c611cb0d02c3?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+## How to Operate
+Define the flow rate and syringe pump diameter variables in the Arduino code. Upload the code to Arduino. Prepare the syringe with the desired fluid. Securely place the syringe between the front and back barrel stabilizers. The tip of 10 mL syringe goes in the lower hole on the front barrel stabilizer, with the flange of the 10 mL syringe going in the lower slot on the back barrel stabilizer. The tip of 20 mL syringe goes in the higher hole on the front barrel stabilizer, with the flange of the 20 mL syringe going in the higher slot on the back barrel stabilizer. Press the latching button to start the syringe pump, and press again to pause.
+
