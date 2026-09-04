@@ -41,7 +41,7 @@ front barrel stabilizer | 1
 
 ## Arduino Code
 
-This [Arduino code] (assets/ArduinoCodeSyringePump.MD) sets the flow rate of the syringe pump. Enter the desired flow rate and syringe pump diameter.
+This [Arduino code](assets/ArduinoCodeSyringePump.MD) sets the flow rate of the syringe pump. Enter the desired flow rate and syringe pump diameter.
 
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b6028111d35c611cb0d02c3?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
