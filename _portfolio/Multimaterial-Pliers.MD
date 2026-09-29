@@ -8,6 +8,22 @@ toc: true
 toc_label: "Table of Contents"
 toc_sticky: true
 toc_icon: bars
+feature_row:
+  - image_path: assets/img/First_Print.JPG
+    alt: "First Iteration"
+    title: "First Iteration"
+  - image_path: assets/img/Second_Print.JPG
+    alt: "Second Iteration"
+    title: "Second Iteration"
+  - image_path: assets/img/Pliers_with_Resistor.JPG
+    alt: "Pliers Holding Resistor"
+    title: "Pliers Holding Resistor"
+  - image_path: assets/img/Pliers_Closeup.JPG
+    alt: "Jaws"
+    title: "Jaws"
+  - image_path: assets/img/Plier_In_Action.gif
+    alt: "Pliers in Action"
+    title: "Pliers in Action"
 ---
 
 Print-in-place parts are multiple-component prints that contain moving or interlocking parts. These designs can be used immediately after printing with no post-print assembly required. Print-in-place parts can be produced with one material through careful 3D design, consideration of clearances, and orientation on the print bed. Print-in-place parts can also be created using two materials with a multi-material printer. Elastic plastic is used to create a flexible joint between rigid plastic parts. Print-in-place parts are useful because they do not require assembly time or assembly materials such as bolts, screws, and glue. Examples of print-in-place applications include this [fun octopus toy] (https://all3dp.com/2/coolest-print-in-place-3d-models/) and this [spring loaded box] (https://www.instructables.com/Print-in-Place-Spring-Loaded-Box/).  
