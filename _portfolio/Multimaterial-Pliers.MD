@@ -26,7 +26,7 @@ feature_row:
     title: "Pliers in Action"
 ---
 
-Print-in-place parts are multiple-component prints that contain moving or interlocking parts. These designs can be used immediately after printing with no post-print assembly required. Print-in-place parts can be produced with one material through careful 3D design, consideration of clearances, and orientation on the print bed. Print-in-place parts can also be created using two materials with a multi-material printer. Elastic plastic is used to create a flexible joint between rigid plastic parts. Print-in-place parts are useful because they do not require assembly time or assembly materials such as bolts, screws, and glue. Examples of print-in-place applications include this [fun octopus toy] (https://all3dp.com/2/coolest-print-in-place-3d-models/) and this [spring loaded box] (https://www.instructables.com/Print-in-Place-Spring-Loaded-Box/).  
+Print-in-place parts are multiple-component prints that contain moving or interlocking parts. These designs can be used immediately after printing with no post-print assembly required. Print-in-place parts can be produced with one material through careful 3D design, consideration of clearances, and orientation on the print bed. Print-in-place parts can also be created using two materials with a multi-material printer. Elastic plastic is used to create a flexible joint between rigid plastic parts. Print-in-place parts are useful because they do not require assembly time or assembly materials such as bolts, screws, and glue. Examples of print-in-place applications include this [fun octopus toy](https://all3dp.com/2/coolest-print-in-place-3d-models/) and this [spring loaded box](https://www.instructables.com/Print-in-Place-Spring-Loaded-Box/).  
 
 The goal of our project was to design and print needle nose pliers capable of picking up through-hole resistors. The pliers must be multi-material and contain a spring component made out of flexible material that returns the pliers to the open position when not in use. Since there was only one multi-material printer in the lab, we were allowed to print the parts on separate printers and then assemble the pliers by hand. 
 
@@ -52,11 +52,11 @@ Parameters: I parameterized the lengths of the dovetail joints and pin diameter 
 ## Iterations
 From my first print, the pivot worked well and without the spring, compressing the handles easily closed the jaws. However, when the spring was placed in the handles, the pliers were difficult to compress, and the jaws could not close. At 4.0 mm, the spring was too stiff to easily close the handles. In addition, the sharp edges of the handles made the pliers uncomfortable to hold.
 
-![first iteration](https://github.com/rio-siff/rio-siff.github.io/blob/main/assets/img/First_Print.JPG)
+![first iteration](/assets/img/First_Print.JPG)
 
 For the second print, I changed the spring thickness from 4.0 mm to 2.5 mm. At this thickness, the handles closed easily but still sprang open quickly. I added fillets to the handles to make the pliers comfortable to hold. I also lengthened the handles for an improved fit in my hand. The new adjustments made the pliers comfortable to hold and easy to work with. With this print, I was able to quickly pick up resistors, hold the resistors in the pliers, and return the resistors to the table. 
 
-![second iteration](https://github.com/rio-siff/rio-siff.github.io/blob/main/assets/img/Second_Print.JPG)
+![second iteration](/assets/img/Second_Print.JPG)
 
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811e1f197d4b5897920?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
