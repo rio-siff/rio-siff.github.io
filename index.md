@@ -14,7 +14,7 @@ feature_row:
     alt: "Syringe Pump"
     title: "Syringe Pump"
     excerpt: "Automated syringe pump with a set flow rate."
-  - image_path: assets/img/Syringe_Pump_Portrait_Website.jpg
+  - image_path: assets/img/Pliers_with_Resistor.JPG
     alt: "Multi-Material Pliers"
     title: "Multi-Material Pliers"
     excerpt: "Multi-material needle nose pliers capable of picking up resistors."
