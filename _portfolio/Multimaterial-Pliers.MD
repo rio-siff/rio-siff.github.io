@@ -27,7 +27,7 @@ Straight leaf spring: I chose the straight leaf spring design because of its des
 
 Dovetail joints: I chose dovetail joints to attach my spring to the handles as these joints securely held the spring in place, while still allowing easy attachment of the spring to the handles.
 
-Spring placement: Placing the spring further from the pivot causes a stronger reopening force but requires more force to close the pivot. I wanted the pliers to spring open quickly when released, so placed the spring about three quarters the length of the handles from the pivot.
+Spring placement: Placing the spring further from the pivot causes a stronger reopening force but requires more force to close the jaws. I wanted the pliers to spring open quickly when released, so placed the spring about three quarters the length of the handles from the pivot.
 
 Two mirror components: The plier contains 3 components- the bottom component, the top component, and the spring component. The bottom part of the plier has one jaw, one handle, the pivot pin base, and the pivot pin. The top part of the plier has one jaw, one handle, and the pivot ring that secures the pivot pin. The bottom and top pivot sketches are mirrors of each other. To make the top part, I simply made a copy of the bottom part sketch, rotated by 180 degrees, and extruded in the appropriate directions.
 
