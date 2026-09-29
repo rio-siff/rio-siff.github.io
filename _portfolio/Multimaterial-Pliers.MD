@@ -53,6 +53,49 @@ Length of pliers | 125.5
 Thickness | 11.0
 
 ## Print Settings
+I used the standard print settings and printed on a Voron printer.
+
+Elastic 95A TPU - 0.6 mm nozzle
+
+| Setting | Value |
+|---|---|
+| Perimeters – Contour | **2 minimum** |
+| Wall Thickness | **0** |
+| Spiral Vase | **Off** |
+| Solid Layers – Top | **4** |
+| Solid Layers – Bottom | **3** |
+| Minimum Shell Thickness – Top | **0 mm** |
+| Minimum Shell Thickness – Bottom | **0 mm** |
+| Sparse Infill Pattern | **Gyroid** |
+| Infill Density | **25%** |
+| Top Infill Pattern | **Monotonic** |
+| Supporting Dense Layer | **Off** |
+| Only One Perimeter on Top Surfaces | **On** |
+| Detect Overhangs | **On** |
+| Seam Position | **Rear** |
+| Fuzzy Skin | **None** |
+
+Rigid PLA - 0.6 mm nozzle
+
+| Setting | Value |
+|---|---|
+| Perimeters – Contour | **3 minimum** |
+| Wall Thickness | **0** |
+| Spiral Vase | **Off** |
+| Solid Layers – Top | **3** |
+| Solid Layers – Bottom | **3** |
+| Minimum Shell Thickness – Top | **0.8 mm** |
+| Minimum Shell Thickness – Bottom | **0.8 mm** |
+| Sparse Infill Pattern | **Gyroid** |
+| Infill Density | **15%** |
+| Top Infill Pattern | **Monotonic** |
+| Supporting Dense Layer | **Off** |
+| Only One Perimeter on Top Surfaces | **On** |
+| Detect Overhangs | **On** |
+| Seam Position | **Rear** |
+| Fuzzy Skin | **None** |
+
+
 
 
 
