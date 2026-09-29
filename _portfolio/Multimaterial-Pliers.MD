@@ -2,8 +2,8 @@
 title: "Multi-Material Pliers"
 excerpt: "Automated syringe pump that dispenses liquid at a set flow rate."
 header:
-  image: /assets/img/Syringe_Pump_Portrait_Website.jpg
-  teaser: /assets/img/Syringe_Pump_Portrait_Website.jpg
+  image: /assets/img/Pliers_with_Resistor.JPG
+  teaser: /assets/img/Pliers_Closeup.JPG
 toc: true
 toc_label: "Table of Contents"
 toc_sticky: true
