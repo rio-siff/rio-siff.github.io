@@ -9,19 +9,19 @@ toc_label: "Table of Contents"
 toc_sticky: true
 toc_icon: bars
 feature_row:
-  - image_path: assets/img/First_Print.JPG
+  - image_path: /assets/img/First_Print.JPG
     alt: "First Iteration"
     title: "First Iteration"
-  - image_path: assets/img/Second_Print.JPG
+  - image_path: /assets/img/Second_Print.JPG
     alt: "Second Iteration"
     title: "Second Iteration"
-  - image_path: assets/img/Pliers_with_Resistor.JPG
+  - image_path: /assets/img/Pliers_with_Resistor.JPG
     alt: "Pliers Holding Resistor"
     title: "Pliers Holding Resistor"
-  - image_path: assets/img/Pliers_Closeup.JPG
+  - image_path: /assets/img/Pliers_Closeup.JPG
     alt: "Jaws"
     title: "Jaws"
-  - image_path: assets/img/Plier_In_Action.gif
+  - image_path: /assets/img/Plier_In_Action.gif
     alt: "Pliers in Action"
     title: "Pliers in Action"
 ---
