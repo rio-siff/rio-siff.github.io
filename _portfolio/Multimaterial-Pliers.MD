@@ -10,7 +10,7 @@ toc_sticky: true
 toc_icon: bars
 ---
 
-Print-in-place parts are multiple-component prints that contain moving or interlocking parts. These designs can be used immediately after printing with no post-print assembly required. Print-in-place parts can be produced with one material through careful 3D design, consideration of clearances, and orientation on the print bed. Print-in-place parts can also be created using two materials with a multi-material printer. Elastic plastic is used to create a flexible joint between rigid plastic parts. Print-in-place parts are useful because they do not require assembly time or assembly materials such as bolts, screws, and glue. Examples of print-in-place applications include this fun octopus toy and this spring loaded box.  
+Print-in-place parts are multiple-component prints that contain moving or interlocking parts. These designs can be used immediately after printing with no post-print assembly required. Print-in-place parts can be produced with one material through careful 3D design, consideration of clearances, and orientation on the print bed. Print-in-place parts can also be created using two materials with a multi-material printer. Elastic plastic is used to create a flexible joint between rigid plastic parts. Print-in-place parts are useful because they do not require assembly time or assembly materials such as bolts, screws, and glue. Examples of print-in-place applications include this [fun octopus toy] (https://all3dp.com/2/coolest-print-in-place-3d-models/) and this [spring loaded box] (https://www.instructables.com/Print-in-Place-Spring-Loaded-Box/).  
 
 The goal of our project was to design and print needle nose pliers capable of picking up through-hole resistors. The pliers must be multi-material and contain a spring component made out of flexible material that returns the pliers to the open position when not in use. Since there was only one multi-material printer in the lab, we were allowed to print the parts on separate printers and then assemble the pliers by hand. 
 
@@ -55,25 +55,4 @@ Thickness | 11.0
 ## Print Settings
 
 
-
-## Off-the-shelf Parts
-
-Part | Quantity
---- | ---
-250 mm lead screw with 2 mm pitch and 2 mm lead | 1
-250 mm lead screw with 2 mm pitch and 8 mm lead | 1
-1/4" x 8mm Flexible Coupling | 1
-200 mm linear rod with 8 mm diameter | 2
-LM8UU Linear bearing for 8 mm diameter rod | 2
-2040 Aluminum Extrusion 1' Length | 1
-Nema 17 Stepper Motor | 1
-MEAN WELL RQ-65D AC-DC Power Supply Quad Output 5V 12V 24V 12V 4 Amp | 1
-Arduino Uno | 1
-A4988 Stepper Driver | 1
-Small Breadboard | 1
-Panel Mount Latching Push Buttons | 1
-Limit Switch | 1
-RGB Common Cathode LED | 1
-
-## 3D Printed Parts
 
