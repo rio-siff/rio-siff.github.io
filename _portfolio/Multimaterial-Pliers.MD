@@ -52,11 +52,11 @@ Parameters: I parameterized the lengths of the dovetail joints and pin diameter 
 ## Iterations
 From my first print, the pivot worked well and without the spring, compressing the handles easily closed the jaws. However, when the spring was placed in the handles, the pliers were difficult to compress, and the jaws could not close. At 4.0 mm, the spring was too stiff to easily close the handles. In addition, the sharp edges of the handles made the pliers uncomfortable to hold.
 
-![first iteration](/assets/img/First_Print.JPG)
+![first iteration](assets/img/First_Print.JPG)
 
 For the second print, I changed the spring thickness from 4.0 mm to 2.5 mm. At this thickness, the handles closed easily but still sprang open quickly. I added fillets to the handles to make the pliers comfortable to hold. I also lengthened the handles for an improved fit in my hand. The new adjustments made the pliers comfortable to hold and easy to work with. With this print, I was able to quickly pick up resistors, hold the resistors in the pliers, and return the resistors to the table. 
 
-![second iteration](/assets/img/Second_Print.JPG)
+![second iteration](assets/img/Second_Print.JPG)
 
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811e1f197d4b5897920?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
